@@ -1,7 +1,7 @@
 # Data-Visualization-of-Bird-Strikes-UM2
 A bird strike is strictly defined as a collision between a bird and an aircraft which is in flight or on a take-off or landing roll. The term is often expanded to cover other wildlife strikes - with bats or ground animals. Bird Strike is common and can be a significant threat to aircraft safety. For smaller aircraft, significant damage may be caused to the aircraft structure and all aircraft, especially jet-engine ones, are vulnerable to the loss of thrust which can follow the ingestion of birds into engine air intakes. This has resulted in several fatal accidents. Bird strikes may occur during any phase of flight, but are most likely during the take-off, initial climb, approach and landing phases due to the greater numbers of birds in flight at lower levels.
 
-![pro img](https://github.com/klu-2200090125/Data-Visualization-of-Bird-Strikes-UM2/assets/153178870/cdcc6a0e-3569-4768-887c-edf62c49a1bd)
+image
 
 
 # Background
