@@ -1,0 +1,28 @@
+Project Name:Data Visualization of Bird Strikes between 2000 – 2011
+Dataset Information  
+Record Id: Unique Id for the incidents  
+Aircraft Type: Type of aircraft  
+Aircraft Name: Name of aircraft 
+Altitude Bin: Altitude of aircraft <1000 and >1000 
+Aircraft make Model: Model number of aircraft  
+Wildlife number struck: Number of wildlife struck in the aircraft 
+Wildlife number struck actual: Actual no. of wildlife struck 
+Effect impact to flight: Effect of impact on flight  
+Flight Date: Date of flight  
+Effect indicated damage: Whether damage is caused to aircraft or not  
+Aircraft no. of Engines: No. of engines in aircraft 
+Aircraft Airline Operator: Name of airline operator  
+Origin State: Origin state for the aircraft  
+When phase of flight: Phase of flight 
+Conditions Precipitation:  
+Remains of Wild Life Collected: Whether wild life remains collected or not 
+Remains of Wild life send to smitsonian: Whether wild life remains sent to 
+Smithsonian 
+Wildlife Size: Size of the wildlife 
+Conditions Sky: Condition of the sky 
+Wildlife Species: Species of the wild life
+Pilot warned of birds or wildlife: Whether the pilot is warned about the wildlife 
+Cost Total: Total cost incurred due to bird strike incidents 
+Feet above ground: Height of the plane during the incidents 
+Number of people injured: No. of people injured during the incidents 
+Is Aircraft large : whether the aircraft is large or not
